@@ -1,0 +1,94 @@
+{
+  "perfumes": [
+    {
+      "id": 1,
+      "title": "Dior Les Parfums",
+      "description": "Dior's Les Parfums collection includes a range of sophisticated and elegant fragrances, each showcasing a different facet of femininity or masculinity.",
+      "thumbnail": "https://www.perfumebynongcake.com/product/10949-8612/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%95-dior-les-parfums-set-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%9E%E0%B8%81%E0%B8%9E%E0%B8%B2-x5-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%87"
+    },
+    {
+      "id": 2,
+      "title": "Maison Francis Kurkdjian Oud Collection",
+      "description": "This collection by Francis Kurkdjian features fragrances centered around the exotic and luxurious note of oud.",
+      "thumbnail": "https://www.parfumsraffy.com/content/maison-francis-kurkdjian-oud-satin-mood"
+    },
+    {
+        "id": 3,
+        "title": "Jo Malone London Cologne Intense Collection",
+        "description": "Jo Malone's Cologne Intense collection offers a more concentrated and luxurious take on their signature scents.",
+        "thumbnail": "https://edgarsbeauty.co.za/2023/02/11/the-jo-malone-london-cologne-intense-collection-brings-you-a-world-of-scent/"
+    },
+    {
+        "id": 4,
+        "title": "By Kilian L'Oeuvre Noire Collection",
+        "description": "By Kilian's L'Oeuvre Noire collection explores dark and sensual fragrances with a touch of mystery.",
+        "thumbnail": "https://www.ausliebezumduft.de/kilian-l-oeuvre-noire-straight-to-heaven.html?___store=english&___from_store=german"
+    },
+    {
+        "id": 5,
+        "title": "Gucci Memoire d'Une Odeur Collection",
+        "description": "Gucci's Memoire d'Une Odeur collection offers a range of gender-neutral fragrances inspired by memories and emotions.",
+        "thumbnail": "https://www.walgreens.com/store/c/gucci-memoire-d%27une-odeur-eau-de-parfum-spray/ID=300411351-product"
+    },
+    {
+        "id": 6,
+        "title": "Maison Margiela Replica Fantasies Collection",
+        "description": "Maison Margiela's Replica Fantasies collection recreates imaginary scents and dreams from different eras and places.",
+        "thumbnail": "https://rooyas.com/ar/products/maison-margiela-replica-soul-of-forest-unisex-eau-de-parfum-100ml"
+    },
+    {
+        "id": 7,
+        "title": "Viktor & Rolf Spicebomb Collection",
+        "description": "The Spicebomb collection by Viktor & Rolf features bold and spicy fragrances with a masculine edge.",
+        "thumbnail": "https://fragrances.com.ng/viktor-and-rolf-spice-bomb-50ml-for-him.html"
+    },
+    {
+        "id": 8,
+        "title": "Tom Ford Neroli Portofino Collection",
+        "description": "Tom Ford's Neroli Portofino collection captures the essence of the Italian Riviera with fresh and citrusy scents.",
+        "thumbnail": "https://www.pinterest.com/pin/119063983877395869/"
+    },
+    {
+        "id": 9,
+        "title": "Hermes Les Jardins Collection",
+        "description": "Hermes Les Jardins collection draws inspiration from various gardens around the world, offering fresh and green fragrances.",
+        "thumbnail": "https://www.perfumes.com.ph/products/hermes-un-jardin-sur-le-nil-unisex-100ml"
+    },
+    {
+        "id": 10,
+        "title": "Maison Lancôme Collection",
+        "description": "Lancôme's Maison Lancôme collection includes a range of elegant and sophisticated fragrances.",
+        "thumbnail": "https://www.pinterest.com/pin/293226625734152399/"
+    },
+    {
+        "id": 11,
+        "title": "Yves Saint Laurent (YSL) Oriental Collection",
+        "description": "YSL's Oriental Collection features rich and opulent fragrances with oriental and exotic notes.",
+        "thumbnail": "https://www.pinterest.com/pin/167336942389065357/"
+    },
+    {
+        "id": 12,
+        "title": "Creed Les Royales Exclusives",
+        "description": "Creed's Les Royales Exclusives collection offers luxurious and refined scents fit for royalty.",
+        "thumbnail": "https://luxurylaunches.com/fashion/creed-les-royales-exclusives-gilded-edition.php"
+    },
+    {
+        "id": 13,
+        "title": "Prada La Femme & L'Homme Collection",
+        "description": "Prada's La Femme and L'Homme collection provides a complementary duo of fragrances for women and men.",
+        "thumbnail": "https://mobilefragrance.com/shop/testers-for-women/prada-la-femme-intense-eau-de-parfum-edp-spray-tester/"
+    },
+    {
+        "id": 14,
+        "title": "Acqua di Parma Note di Colonia Collection",
+        "description": "Note di Colonia by Acqua di Parma explores different facets of the classic cologne.",
+        "thumbnail": "https://www.acquadiparma.com/default/en/note-di-colonia-iv/NDCIVEDC.html"
+    },
+    {
+        "id": 15,
+        "title": "Chloe Signature Collection",
+        "description": "Chloe's Signature Collection features elegant and feminine fragrances with a modern touch.",
+        "thumbnail": "https://www.theperfumeshop.com/chloe/signature/eau-de-parfum-spray/p/25500EDPJU"
+    }
+  ]
+}
